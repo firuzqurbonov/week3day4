@@ -17,3 +17,19 @@
     background-size: cover;
     background-position: center;
 }
+.box1{
+    width: 90%;
+    height: 800px;
+    background: linear-gradient(rgba(0, 0, 0, 0.3),white),url("https://static.vecteezy.com/system/resources/previews/071/371/496/large_2x/nature-background-nature-wallpaper-lush-green-forest-cascades-with-a-flowing-river-and-moss-covered-rocks-in-soft-sunlight-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    margin-top: 200px;
+}
+.box:hover1 {
+    background: linear-gradient(rgba(255, 255, 0, 0.482),rgba(0, 128, 0, 0.384)),url("https://static.vecteezy.com/system/resources/previews/071/371/496/large_2x/nature-background-nature-wallpaper-lush-green-forest-cascades-with-a-flowing-river-and-moss-covered-rocks-in-soft-sunlight-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
